@@ -10,6 +10,11 @@
     <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"/></a>&nbsp;
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp;
     <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a>&nbsp;
+    <img src=“https://img.shields.io/badge/Redis-%23DD0031.svg?style=flat-square&logo=Redis&logoColor=white”></a>&nbsp;
+    <img src=“https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=Figma&logoColor=white”</a>&nbsp;
+    <img src=“https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white”</a>&nbsp;
+    <img src=“https://img.shields.io/badge/Nginx-%23009639.svg?style=flat-square&logo=Nginx&logoColor=white”</a>&nbsp;
+
 </div>
 <br>
 <br>
